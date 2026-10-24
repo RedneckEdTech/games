@@ -7,7 +7,7 @@ If there is something that you are looking for and cannot find, reach out and I'
 ## Games
 [Battle Dragons](http://redneckedtech.github.io/games/battle_dragons.html)\
 [Battleship](http://redneckedtech.github.io/games/battleship.html)\
-[Connect 4](http:www//redneckedtech.github.io/games/connect4.html)\
+[Connect 4](http://www.redneckedtech.github.io/games/connect4.html)\
 [Infinite Tic-Tac-Toe](http://www.redneckedtech.github.io/gameds/infinite_tictactoe.html)\
-[INFINITE Unfair Game (Evil Edition)](http://www,redneckedtech.github.io/games/unfairEE_infinite.html)\
+[INFINITE Unfair Game (Evil Edition)](http://www.redneckedtech.github.io/games/unfairEE_infinite.html)\
 [FINITE Unfair Game (Evil Edition)](http://www.redneckedtech.github.io/games/unfairEE_finite.html)\
