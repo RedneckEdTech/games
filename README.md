@@ -6,8 +6,7 @@ If there is something that you are looking for and cannot find, reach out and I'
 
 ## Games
 [Battle Dragons](http://redneckedtech.github.io/games/battle_dragons.html)
-
-[Battleship]{http://redneckedtech.github.io/games/battleship.html)
+[Battleship](http://redneckedtech.github.io/games/battleship.html)
 
 connect4.html
 infinite_tictactoe.html
